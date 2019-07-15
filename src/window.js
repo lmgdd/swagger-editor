@@ -15,5 +15,6 @@ let win = {
 if(typeof window !== "undefined") {
   win = window
 }
+alert('aaa')
 
 export default win
